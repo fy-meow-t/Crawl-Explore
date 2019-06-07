@@ -1,0 +1,60 @@
+9
+center
+east
+north
+south
+west
+NorthEast
+SouthEast
+NorthWest
+SouthWest
+4
+1 East
+2 North
+3 South
+4 West
+3
+5 North
+6 South
+0 West
+3
+5 East
+0 South
+7 West
+3
+6 East
+0 North
+8 West
+3
+0 East
+7 North
+8 South
+2
+1 South
+2 West
+2
+1 North
+3 West
+2
+2 East
+4 South
+2
+3 East
+4 North
+0
+2
+C;3.00000;6;c2;critter 2
+C;32.00000;20;c2;critter 3 (same name with 2)
+1
+$;10.00000;t2
+1
+E;100;player;The things.Player
+1
+$;10.00000;t2
+0
+2
+$;4.00000;t1
+$;11.00000;t1
+1
+C;10.00000;15;c1;critter 1
+0

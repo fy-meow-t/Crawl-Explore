@@ -1,0 +1,51 @@
+8
+the entry hall
+the dining room
+the living room
+the kitchen
+the hall
+the bedroom
+the office
+the bathroom
+1
+1 North
+2
+0 South
+2 East
+3
+1 West
+3 South
+4 East
+1
+2 North
+4
+2 West
+5 North
+6 East
+7 South
+1
+4 South
+1
+4 West
+1
+4 North
+2
+$;10.0;shoes
+E;100000;A Dad;Man of the house
+1
+$;100.0;tasty spirits
+2
+$;0.0;masterchef on tv
+C;1000000.0;1;Rover;naughty dog
+1
+C;1000000000.0;1;A Mum;cooking delicious meals
+0
+1
+$;100.0;comfy bed
+2
+$;1.0;sexy computer screen
+C;0.0;1;A CSSE Student;work work work work work
+1
+$;-100.0;poop in the toilet
+
+
